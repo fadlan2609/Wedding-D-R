@@ -522,7 +522,7 @@ img {
     min-height: 100vh;
     min-height: 100dvh;
     background: linear-gradient(180deg, rgba(252, 248, 245, 0.2) 0%, rgba(252, 248, 245, 0.95) 100%),
-        url('assets/bg/bg.jpeg') center 30%/cover no-repeat;
+        url('assets/bg/bg.JPEG') center 30%/cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;

@@ -204,11 +204,11 @@ document.querySelectorAll('.scroll-down-btn-small').forEach(btn => {
 // ============================================================
 const GALLERY_CONFIG = {
     images: [
-        'assets/galeri/1.jpeg',
-        'assets/galeri/2.jpeg',
-        'assets/galeri/3.jpeg',
-        'assets/galeri/4.jpeg',
-        'assets/galeri/5.jpeg',
+        'assets/galeri/1.JPEG',
+        'assets/galeri/2.JPEG',
+        'assets/galeri/3.JPEG',
+        'assets/galeri/4.JPEG',
+        'assets/galeri/5.JPEG',
     ],
     labels: [
         'Momen Bahagia',
