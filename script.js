@@ -361,7 +361,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // ============================================================
 // 12. RSVP - GOOGLE SHEETS INTEGRATION
 // ============================================================
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzMPuw_YuHhWh6wH6uNamJfCkL4yuu8fMtZRYtKk2tp-he2o3DMd2m_yBBlpl7l6-CyUA/exec';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxBkfvAQFzzYdcCtH_NI_lFe2GLydi7ZZ4MgfW9mjTM_yA5fEnKEgEr88yHiwisVtgq/exec';
 
 const rsvpForm = document.getElementById('rsvp-form');
 const rsvpTableBody = document.getElementById('rsvp-table-body');
